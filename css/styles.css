@@ -1,0 +1,30 @@
+.heading {
+  background-image: url("../img/test.jpg");
+  color: white;
+  padding: 20px;
+
+
+}
+
+.main {
+  color: blue;
+  padding: 40px;
+}
+
+.footer {
+  border-style: outset;
+  border-width: 5px;
+  padding: 10px;
+}
+
+.sport1 {
+  color: brown;
+}
+
+.sport2 {
+  color: black
+}
+
+.link {
+  text-align: center;
+}
