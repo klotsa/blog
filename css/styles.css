@@ -2,6 +2,8 @@
   background-image: url("../img/test.jpg");
   color: white;
   padding: 20px;
+  margin: 10px;
+  border-style: outset; 
 
 
 }
@@ -13,6 +15,9 @@ body {
 .main {
   color: blue;
   padding: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-style: outset;
 }
 
 .footer {
