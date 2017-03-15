@@ -6,6 +6,10 @@
 
 }
 
+body {
+  background-color: #d6d6c2;
+}
+
 .main {
   color: blue;
   padding: 40px;
@@ -22,9 +26,22 @@
 }
 
 .sport2 {
-  color: black
+  color: blue
 }
 
 .link {
   text-align: center;
+}
+
+.pic {
+
+  width: 25%;
+  height: 25%;
+  border-radius: 50%;
+}
+
+
+.portrait {
+  text-align: center;
+  font-size: 2em;
 }
